@@ -1,4 +1,7 @@
 [project]
+authors = [
+    {name = "divraze", email = "divraze@mail.ru"},
+]
 name = "hexlet-code"
 version = "0.1.0"
 description = "This programm compares two configuration files and shows a difference."
